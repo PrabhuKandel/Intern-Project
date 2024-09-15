@@ -1,0 +1,17 @@
+.section-info {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.latest-work {
+  background: rgb(210, 211, 227);
+}
+.latest-work-image {
+  height: 250px;
+  width: 370px;
+}
+
+.more-image {
+  height: 100px;
+  width: 170px;
+}
